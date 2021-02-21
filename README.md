@@ -10,7 +10,7 @@
   - pubsub implementation via eventemitter
   - nodemon served
   - unit testing via jest
-  - 
+
 * note: need to add typescript precompiler to npm start
 
 
