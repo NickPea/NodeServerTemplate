@@ -1,2 +1,4 @@
-# SimpleEcommerce
-a simple ecommerce website constructed as an SPA in react. 
+# Node API Server Template
+  - routes and middleware via express
+  - standard controllers
+https://softwareontheroad.com/ideal-nodejs-project-structure/#di
