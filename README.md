@@ -8,7 +8,10 @@
   - database with migrations, and seeders (currently configured for postgres drivers via knex npm package)
   - config files with env
   - pubsub implementation via eventemitter
-  - nodemon
+  - nodemon served
+  - unit testing via jest
+  - 
+* note: need to add typescript precompiler to npm start
 
 
 CLI Instructions: 
