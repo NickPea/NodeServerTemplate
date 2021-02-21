@@ -1,4 +1,6 @@
 # My Node API Server Template
+### based on software architecture reccommended in https://softwareontheroad.com/ideal-nodejs-project-structure/#di
+
   - routes and middleware via express
   - standard controllers
   - service layer
@@ -7,7 +9,6 @@
   - config files with env
   - pubsub implementation via eventemitter
   - nodemon
-  - based on software architecture reccommended in https://softwareontheroad.com/ideal-nodejs-project-structure/#di
 
 
 CLI Instructions: 
