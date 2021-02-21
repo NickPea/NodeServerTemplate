@@ -1,5 +1,5 @@
 # My Node API Server Template
-##### based on software architecture reccommended in https://softwareontheroad.com/ideal-nodejs-project-structure/#di
+#### based on software architecture reccommended in https://softwareontheroad.com/ideal-nodejs-project-structure/#di
 
   - routes and middleware via express
   - standard controllers
@@ -12,7 +12,7 @@
 
 
 CLI Instructions: 
-- mkdir newProject
-- cd newProject
-- git pull https://github.com/NickPea/NodeServerTemplate
-- npm start
+- 'mkdir newProject'
+- 'cd newProject'
+- 'git pull https://github.com/NickPea/NodeServerTemplate'
+- 'npm start'
