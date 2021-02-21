@@ -1,5 +1,5 @@
 # My Node API Server Template
-### based on software architecture reccommended in https://softwareontheroad.com/ideal-nodejs-project-structure/#di
+##### based on software architecture reccommended in https://softwareontheroad.com/ideal-nodejs-project-structure/#di
 
   - routes and middleware via express
   - standard controllers
